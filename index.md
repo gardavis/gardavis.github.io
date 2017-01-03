@@ -2,7 +2,7 @@
 layout: default
 title: Gary Davis's Blog
 ---
-
+# Hello
 <div id="home">
   <h1>Blog Posts</h1>
   <ul class="posts">
