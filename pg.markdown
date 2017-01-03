@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "How I got Pinnacle to burn a DVD with audio"
 date: 2012-04-17 -0800
 comments: true
