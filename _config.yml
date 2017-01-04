@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Gary Davis' Blog
 
 description: DotNET/PayPal Development and other Techie Stuff
 author:
