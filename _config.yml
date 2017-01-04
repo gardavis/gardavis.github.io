@@ -19,15 +19,15 @@ defaults:
     values:
       title: dbyll
 
-description: Stylish Jekyll Theme
+description: DotNET/PayPal Development and other Techie Stuff
 author:
-  name: gardavis
+  name: Gary Davis
   email: gary@webguild.com
   github: gardavis
   twitter: gardavis
-  pinterest: asd123
+  pinterest: gardavis
   linkedin: gardavis
-  bio: Your stylish, minimalist theme!
+  bio: DotNET/PayPal Programmer
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
