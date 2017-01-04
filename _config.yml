@@ -5,7 +5,7 @@ comments: true
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 disqus: gardavis
 google_analytics: UA-1811424-1
