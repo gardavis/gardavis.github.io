@@ -6,8 +6,6 @@ comments: true
 disqus_identifier: 3045
 tags: []
 ---
-### Background
-
 My wife asked me to install her Viking embroidery “5D” software on her
 Surface Pro PC so she could use the touch tablet and pen to do graphics
 drawing and editing in the Design Creator.
