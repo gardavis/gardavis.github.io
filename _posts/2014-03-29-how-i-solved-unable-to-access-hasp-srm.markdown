@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title: "How I solved “Unable to access HASP SRM Run-time Environment? (H0033)”"
 date: 2014-03-29 -0800
