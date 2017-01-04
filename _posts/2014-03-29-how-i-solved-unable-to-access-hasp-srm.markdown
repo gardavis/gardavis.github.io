@@ -6,8 +6,6 @@ comments: true
 disqus_identifier: 3045
 tags: []
 ---
-title
-
 ### Background
 
 My wife asked me to install her Viking embroidery “5D” software on her
