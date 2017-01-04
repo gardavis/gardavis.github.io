@@ -17,8 +17,8 @@ Installation went through normal software install and then it also had 3
 updates to install. Two of the updates seemed to end with an error,
 perhaps because I did not reboot the PC after each (it was not clear
 whether or not to do this). At any point, running the program with the
-dongle installed resulted in the H0033 error.[![HASP
-Dongle](/images/blogs_webguild_com/Windows-Live-Writer/How-do-I-resolve-the-message-Unable-to-a_EDD5/HASPDongle_thumb.png "HASP Dongle")](/images/blogs_webguild_com/Windows-Live-Writer/How-do-I-resolve-the-message-Unable-to-a_EDD5/HASPDongle_2.png)
+dongle installed resulted in the H0033 error.![HASP
+Dongle](/images/blogs_webguild_com/Windows-Live-Writer/How-do-I-resolve-the-message-Unable-to-a_EDD5/HASPDongle_thumb.png "HASP Dongle"){: .right}
 
 I tried doing a repair install and also install of drivers (from the
 main install menu) – neither helped.
