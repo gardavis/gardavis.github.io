@@ -1,17 +1,16 @@
-comments: true
 title: Gary Davis' Blog
-tagline: DotNET/PayPal Development and other Techie Stuff
+description: DotNET/PayPal Development and other Techie Stuff
+disqus: gardavis
+google_analytics: UA-1811424-1
 
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
+comments: true
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: gardavis
-google_analytics: UA-1811424-1
-title: Gary Davis' Blog
 
 defaults:
   -
@@ -20,7 +19,6 @@ defaults:
     values:
       title: Gary Davis' Blog
 
-description: DotNET/PayPal Development and other Techie Stuff
 author:
   name: Gary Davis
   email: gary@webguild.com
