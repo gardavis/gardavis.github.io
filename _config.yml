@@ -1,17 +1,43 @@
-theme: jekyll-theme-architect
-title: Gary Davis' Blog
-description: DotNET/PayPal Development and other Techie Stuff
-show_downloads: false
+#tagline:      DotNET/PayPal Development and other Techie Stuff
+
+
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+disqus: gardavis
 google_analytics: UA-1811424-1
+title: Gary Davis' Blog
 
-# Setup
-name:         Gary Davis' Blog
-tagline:      DotNET/PayPal Development and other Techie Stuff
-baseurl:      ""
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: dbyll
 
-# Gems
+description: Stylish Jekyll Theme
+author:
+  name: gardavis
+  email: gary@webguild.com
+  github: gardavis
+  twitter: gardavis
+  pinterest: asd123
+  linkedin: gardavis
+  bio: Your stylish, minimalist theme!
+  email_md5: 726351295ec82e145928582f595aa3aa
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
 gems:
   - jekyll-paginate
-
-#Others
-markdown: kramdown
