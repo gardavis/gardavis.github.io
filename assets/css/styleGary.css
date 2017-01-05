@@ -1,9 +1,11 @@
 .right {
-	float: right;
+    float: right;
+    margin: 6px;
 }
 
 .left {
-	float: left;
+    float: left;
+    margin: 6px;
 }
 
 .center {

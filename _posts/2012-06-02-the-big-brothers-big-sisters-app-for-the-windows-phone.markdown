@@ -17,8 +17,7 @@ involved with the BBBS Little Moments web site and administration site
 and project management. Our Big Brothers Big Sisters contact was [Kara
 Justi](http://www.mentorbig.org) from the Palm Beach and Marin Counties
 agency.
-[![BBBS WP7
-App](/images/blogs_webguild_com/BBBSImage.png)](http://garz.me/bbbslittlemomentsapp)
+[![BBBS WP7 App](/images/blogs_webguild_com/BBBSImage.png)](https://www.microsoft.com/en-us/store/p/bbbs-little-moments/9nblgggzjrqk){: .left}
 
 The WP7 version of the Big Brothers Big Sisters Little Moments app was
 the first to market. The Android version is coming and as far as I know,
@@ -27,8 +26,8 @@ is also a website version under development (including an administration
 section for adding/updating data) and has a REST web service for data
 (BBBS agencies, activities, etc).
 
-Click on the image to bring up the app details page.[![BBBS WP7
-App](/images/blogs_webguild_com/Download.png)](http://garz.me/bbbslittlemomentsapp)
+Click on the image to bring up the app details page.
+[![BBBS WP7 App](/images/blogs_webguild_com/Download.png)](https://www.microsoft.com/en-us/store/p/bbbs-little-moments/9nblgggzjrqk){: .right}
 
 Get involved with Big Brothers Big Sisters and use this app to find
 activities available within your selected price range, distance,
