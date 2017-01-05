@@ -7,8 +7,8 @@ disqus_identifier: 3044
 tags: []
 ---
 I got a Nokia Lumia 822 Windows Phone as a developer promo and my wife
-wanted to use it
-inst[![Lumia-822](/images/blogs_webguild_com/WindowsLiveWriter/HowIGotMyVerizonLumia822toWorkonATT_8D4C/Lumia-822_thumb.jpg "Lumia-822")](/images/blogs_webguild_com/WindowsLiveWriter/HowIGotMyVerizonLumia822toWorkonATT_8D4C/Lumia-822_2.jpg)ead
+wanted to use it instead
+[Lumia-822](/images/blogs_webguild_com/WindowsLiveWriter/HowIGotMyVerizonLumia822toWorkonATT_8D4C/Lumia-822_thumb.jpg){: .right}
 of her Lumia 920 since it had most of the features but was a bit smaller
 and a lot lighter in weight.
 
@@ -22,4 +22,3 @@ the Settings-\>Cellular-\>Add internet APN. For the APN field, enter
 Save button.
 
 That’s all there is to it! Now check your Internet access.
-

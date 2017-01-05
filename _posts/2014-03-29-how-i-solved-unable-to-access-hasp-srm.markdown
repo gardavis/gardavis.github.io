@@ -6,6 +6,8 @@ comments: true
 disqus_identifier: 3045
 tags: []
 ---
+### Background
+
 My wife asked me to install her Viking embroidery “5D” software on her
 Surface Pro PC so she could use the touch tablet and pen to do graphics
 drawing and editing in the Design Creator.
@@ -17,8 +19,8 @@ Installation went through normal software install and then it also had 3
 updates to install. Two of the updates seemed to end with an error,
 perhaps because I did not reboot the PC after each (it was not clear
 whether or not to do this). At any point, running the program with the
-dongle installed resulted in the H0033 error.![HASP
-Dongle](/images/blogs_webguild_com/Windows-Live-Writer/How-do-I-resolve-the-message-Unable-to-a_EDD5/HASPDongle_thumb.png "HASP Dongle"){: .right}
+dongle installed resulted in the H0033 error.
+![HASP Dongle](/images/blogs_webguild_com/Windows-Live-Writer/How-do-I-resolve-the-message-Unable-to-a_EDD5/HASPDongle_thumb.png "HASP Dongle"){: .left}
 
 I tried doing a repair install and also install of drivers (from the
 main install menu) – neither helped.
@@ -56,6 +58,5 @@ Copy of HASP SRM Runtime download zip file:
 -   V7.52 as of Dec. 2016: [Click
     here](http://www.webguild.com/data/Sentinel_LDK_Run-time_setup-V7.52.zip)
     – This is the latest version. Does it work?
-
 
 Please post feedback on your results.
