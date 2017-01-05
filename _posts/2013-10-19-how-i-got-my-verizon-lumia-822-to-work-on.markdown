@@ -10,7 +10,7 @@ I got a Nokia Lumia 822 Windows Phone as a developer promo and my wife
 wanted to use it instead
 of her Lumia 920 since it had most of the features but was a bit smaller
 and a lot lighter in weight.
-[Lumia-822](/images/blogs_webguild_com/WindowsLiveWriter/HowIGotMyVerizonLumia822toWorkonATT_8D4C/Lumia-822_thumb.jpg "Lumia-822"){: .right}
+![Lumia-822](/images/blogs_webguild_com/WindowsLiveWriter/HowIGotMyVerizonLumia822toWorkonATT_8D4C/Lumia-822_thumb.jpg "Lumia-822"){: .right}
 
 So I moved over the micro-sim card and everything worked fine except for
 the data connection. The 822 is unlocked already so there was no need to
