@@ -33,6 +33,7 @@ to **4** for the sdcard entry. Auto winds up mounting partition \#1.
 
 > dev\_mount sdcard /mnt/sdcard **auto**
 > /devices/platform/mmci-omap-hs.0/mmc\_host/mmc1 
+
 Well, when I upgraded to CM 10.2, which is Android Jellybean version
 4.3, I could not find the file to edit. Some Binging around showed that
 vold.fstab was no longer used in 4.3. Instead, there was a file
@@ -42,6 +43,7 @@ requests in /fstab.encore. Looking at this file shows the statement:
 
 > /devices/platform/omap/omap\_hsmmc.0/mmc\_host/mmc1 /storage/sdcard1 
 > auto defaults voldmanaged=sdcard:**auto** 
+
 This is the line that has to change. Note there are two *auto*s in that
 statement; the first is the filesystem type (for NookColor, it is
 basically VFAT) and the second is the partition number which is the one
@@ -109,4 +111,3 @@ There are other ways of doing parts of this procedure such as using ADB
 or Samba, wifi instead of USB, dd instead of BootUtil, etc. If you have
 ideas on doing this without using the terminal console or all on the
 Nook instead of a Windows PC, please add some comments.
-

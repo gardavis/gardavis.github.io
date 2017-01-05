@@ -12,8 +12,8 @@ as my home server and from work, I connected to it using Remote Desktop.
 I ran Windows Update and part way through the 19 updates, the Remote
 Desktop connection froze. I figured the updates needed a reboot and but
 the server never came back up. I’d have to wait till I got home to
-figure out what
-happened.[![Updates1](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_thumb.png "Updates1")](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_2.png)
+figure out what happened.
+[![Updates1](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_thumb.png "Updates1")](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_2.png){: .right}
 
 When I got home, the server was pretty much how I left it from work. It
 had completed the updates and was just ready to reboot. The problem was
@@ -31,8 +31,8 @@ updates but my System Restore was not turned on! I do run Windows Backup
 and the last backup of the system image was a few days earlier. I could
 get my firewall rules from the SYSTEM registry on that backup.
 
-[![FirewallReg](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/FirewallReg_thumb.png "FirewallReg")](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/FirewallReg_2.png)The
-backup creates a VHD virtual drive for the system and the program files.
+[![FirewallReg](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/FirewallReg_thumb.png "FirewallReg")](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/FirewallReg_2.png){: .left}
+The backup creates a VHD virtual drive for the system and the program files.
 I mounted the system VHD as a drive and located the registry
 (\\windows\\system32\\config\\SYSTEM). I ran regedit and attached the
 SYSTEM registry file hive to get to the registry settings for the
@@ -64,4 +64,3 @@ A good place to test out your firewall is at
 [www.grc.com](http://www.grc.com) – navigate to the Shields Up page to
 verify your ports are blocked as expected. Note that your router may be
 doing most of the port blocking for you.
-
