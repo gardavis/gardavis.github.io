@@ -6,6 +6,9 @@ comments: true
 disqus_identifier: 3045
 tags: []
 ---
+First of all, don't stress! These instructions will most likely get you up and running with your 4D, 5D, 6D
+or other dongle-controlled program in short order.
+
 ### Background
 
 My wife asked me to install her Viking embroidery “5D” software on her
