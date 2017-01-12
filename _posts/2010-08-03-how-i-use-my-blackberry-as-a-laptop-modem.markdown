@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Use my Blackberry as a Laptop Modem"
-date: 2012-04-17 -0800
+date: 2010-08-03 -0800
 comments: true
 disqus_identifier: 32
 tags: [Personal]
@@ -26,8 +26,8 @@ Server 2008 R2 (64bit) which is similar to Windows 7. A similar
 procedure may work to tether other cell phones that have a data plan
 though the parts about Desktop Manager will not apply.
 
-Install the Desktop Manager (DM) software ([click
-here](http://na.blackberry.com/eng/services/desktop/desktop_pc.jsp) or
+Install the Desktop Manager (DM) software 
+([click here](http://na.blackberry.com/eng/services/desktop/desktop_pc.jsp) or
 search Google to locate the download). This will install a modem named
 *Standard Modem* assigned to a com port.
 
@@ -104,4 +104,3 @@ or USB), you still can make and receive calls without interrupting your
 connection.
 
 Good luck!
-

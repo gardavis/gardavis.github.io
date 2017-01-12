@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Dealt With an ave.exe Virus Infection"
-date: 2012-04-17 -0800
+date: 2010-03-18 -0800
 comments: true
 disqus_identifier: 14
 tags: [Personal]
@@ -49,13 +49,12 @@ warning popup and then another window opened automatically running a
 scan and finding lots of infected files.
 
  
-[![ave1](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave1_thumb.png "ave1")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave1_2.png)          
-[![ave2](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave2_thumb.png "ave2")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave2_2.png)
+[![ave1](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave1_thumb.png "ave1")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave1_2.png){: .left}
+[![ave2](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave2_thumb.png "ave2")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave2_2.png){: .left}
 
 Then a tray notification bubbled up with more warnings.
-
  
-[![ave3](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave3_thumb.png "ave3")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave3_2.png)
+[![ave3](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave3_thumb.png "ave3")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIDealtWithanave.exeVirusInfection_FC19/ave3_2.png){: .left}
 
 The laptop was really scared out of its mind!
 
@@ -154,4 +153,3 @@ partially displayed the hits and then displayed a warning about the site
 containing malicious software. I clicked in the warning and exited the
 site completely. I think clicking on the warning is what initiated the
 download of the infection.
-

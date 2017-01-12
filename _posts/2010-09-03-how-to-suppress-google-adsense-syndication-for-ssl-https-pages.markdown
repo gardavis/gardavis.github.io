@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "How to Suppress Google AdSense (Syndication) for SSL Https Pages"
-date: 2012-04-16 -0800
+date: 2010-09-03 -0800
 comments: true
 disqus_identifier: 8
 tags: [Programming]
 ---
-Google AdSense is not supported for https ([see
-here](https://www.google.com/adsense/support/bin/answer.py?hl=en&answer=10528)).
+Google AdSense is not supported for https (
+[see here](https://www.google.com/adsense/support/bin/answer.py?hl=en&answer=10528)).
 If you attempt to use it on an SSL page, you will see this warning in
-IE8.[![Image1](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowtoSuppressGoogleAdsenseSyndicationfor_B0ED/Image1_thumb.png "Image1")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowtoSuppressGoogleAdsenseSyndicationfor_B0ED/Image1_2.png)
+IE8.
+[![Image1](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowtoSuppressGoogleAdsenseSyndicationfor_B0ED/Image1_thumb.png "Image1")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowtoSuppressGoogleAdsenseSyndicationfor_B0ED/Image1_2.png){: .right}
 The user would have to click No to allow the request (for a .js file in
 this case) to complete. Answering Yes will block it (the wording seems
 backwards from what you’d expect).
@@ -35,7 +36,7 @@ This is the standard AdSense code:
 >
 > \<script type="text/javascript"
 > src="[http://pagead2.googlesyndication.com/pagead/show\_ads.js](http://pagead2.googlesyndication.com/pagead/show_ads.js)"\>\</script\>
-> 
+ 
 This is the new version that will suppress the AdSense code and prevent
 the popup on your SSL pages. Simply insert the
 **document.write**statement and remove the second script.
@@ -58,4 +59,3 @@ This fix uses the existing conditional block for non-SSL pages that
 initializes some google\_ad variables to also emit a \<script\> element
 to pull in the necessary show\_ads.js file. For SSL pages, the variables
 will not be initialized and the script will not be emitted for the page.
-

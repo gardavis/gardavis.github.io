@@ -1,48 +1,34 @@
 ---
 layout: post
 title: "My Attempts to Get a Multistream Cablecard from Comcast for my Tivo Premiere"
-date: 2012-04-17 -0800
+date: 2010-04-21 -0800
 comments: true
 disqus_identifier: 12
 tags: [Personal]
 ---
 Unlike earlier Tivos, the Premiere requires a multistream cablecard
-called an **M-Card**.
-
- 
+called an **M-Card**. 
 
 My first chat asked if I could pick up an M-Card self-install kit and
 the operator said yes. I went to the Pompano office, stood in line an
 hour and the counter person said that was not true. She wrote up the
-initial order to send out the installer.
-
- 
+initial order to send out the installer. 
 
 My second chat was to make sure the order had instructions to bring
 M-Cards and not charge me for the installation. The chat person said she
-added the info to the order.
-
- 
+added the info to the order. 
 
 The installer came last Wednesday with no M-Cards and nothing on the
-order that said M-Cards were required for the Tivo Premiere.
-
- 
+order that said M-Cards were required for the Tivo Premiere. 
 
 I heard nothing for days so called and the operator set up the 2<sup>nd</sup>
-appointment for today – it had to wait for M-Cards to be available.
-
- 
+appointment for today – it had to wait for M-Cards to be available. 
 
 As I said, the installer came today with no M-Cards and nothing on the
-order that they were requested.
-
- 
+order that they were requested. 
 
 If things continue as they have, I will not hear again from the Comcast
-installer (contractor) that went to get an M-Card.
-
- 
+installer (contractor) that went to get an M-Card. 
 
 We shall see.
 
@@ -68,6 +54,3 @@ This is a link to a direct online support forum through [Broadband
 Reports](http://www.dslreports.com/):
 [http://www.dslreports.com/forum/comcastdirect](http://www.dslreports.com/forum/comcastdirect).
 This is a useful forum to join for other reasons.
-
- 
-

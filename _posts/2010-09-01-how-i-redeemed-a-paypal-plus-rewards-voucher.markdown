@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Redeemed a PayPal Plus Rewards Voucher"
-date: 2012-04-17 -0800
+date: 2010-09-01 -0800
 comments: true
 disqus_identifier: 33
 tags: [Personal]
@@ -24,8 +24,8 @@ am familiar with does work with the vouchers. It is
 DVDs, games and accessories which is a great way to use your rewards and
 not lose out of your redeemed voucher value.
 
-[![bioh0](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh0_thumb.png "bioh0")](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh0_2.png)Basically,
-you first go to the PayPal site, log on, click on the **View card
+[![bioh0](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh0_thumb.png "bioh0")](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh0_2.png){: .left}
+Basically, you first go to the PayPal site, log on, click on the **View card
 details** link on your My Account Overview page. Click on the Rewards
 link on the left to select the voucher you want. In this example, I plan
 to buy Avatar on Blu Ray with a \$25 voucher.
@@ -39,7 +39,7 @@ I had heard there was a delay in being able to use the voucher but in
 this case, I was able to complete my checkout immediately using the
 voucher.
 
-[![bioh1](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh1_thumb.png "bioh1")](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh1_2.png)
+[![bioh1](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh1_thumb.png "bioh1")](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh1_2.png){: .right}
 
 Now that you have the voucher, go to the
 [BIOH](http://www.blowitoutahere.com/) website. Search for the item(s)
@@ -55,7 +55,7 @@ entering you address information and going through with the standard
 checkout. Standard checkout will not give you the opportunity to use
 your voucher but Express Checkout will.
 
-[![bioh2](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh2_thumb.png "bioh2")](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh2_2.png)
+[![bioh2](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh2_thumb.png "bioh2")](/images/blogs_webguild_com/gary/WindowsLiveWriter/2e75b368ab0a_F182/bioh2_2.png){: .left}
 
 You will now be redirected to PayPal to log on and select the shipping
 address and payment information.
@@ -83,4 +83,3 @@ In any case, this is one place that you can use your rewards. Other
 sites that offer Express Checkout probably also will work just fine.
 Please leave comments on other sites that can be used for reward
 redemption.
-

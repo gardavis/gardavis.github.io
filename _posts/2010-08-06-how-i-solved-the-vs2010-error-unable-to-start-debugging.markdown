@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Solved the VS2010 Error: &quot;Unable to start debugging&hellip;&quot;"
-date: 2012-04-17 -0800
+date: 2010-08-06 -0800
 comments: true
 disqus_identifier: 11
 tags: [Programming]
@@ -50,4 +50,3 @@ The debug started to fail again in the same way, immediately displaying
 the *Unable to start debugging* error after the compile. Killing the
 msvsmon and restarting VS2010 did not help. As soon as I click F5,
 msvsmon.exe shows up on the taskmanager list and the error displays.
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Blocked Spam Coming Into my Home Email Server"
-date: 2012-04-17 -0800
+date: 2010-03-21 -0800
 comments: true
 disqus_identifier: 35
 tags: [Personal]
@@ -25,8 +25,8 @@ Rollernet account to see what they offered for spam filtering support.
 It turns out there is pretty good support.
 
 There five filtering options available. 
-[![RollernetFiltering](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIBlockedSomeSpamComingIntomyHomeEmail_AA6E/RollernetFiltering_thumb.png "RollernetFiltering")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIBlockedSomeSpamComingIntomyHomeEmail_AA6E/RollernetFiltering_2.png)I
-had not configured any of them but two of the five were already enabled
+[![RollernetFiltering](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIBlockedSomeSpamComingIntomyHomeEmail_AA6E/RollernetFiltering_thumb.png "RollernetFiltering")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIBlockedSomeSpamComingIntomyHomeEmail_AA6E/RollernetFiltering_2.png){: .left}
+I had not configured any of them but two of the five were already enabled
 ([DNSBL](https://acc.rollernet.us/help/mail/dnsbl.php) and
 [SPF](https://acc.rollernet.us/help/mail/spf.php)). I then turned on two
 of the remaining three options
@@ -51,4 +51,3 @@ how certain (on not) it is that the email is spam. Then you specify the
 score that you want to use and if an email has a higher score than your
 threshold, it will be flagged as mentioned (or you can block it). I may
 enable this if Deborah gets more spam not blocked by the other methods.
-

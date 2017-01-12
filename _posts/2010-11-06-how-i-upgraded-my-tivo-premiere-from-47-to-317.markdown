@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Upgraded my Tivo Premiere from 47 to 317 Hours"
-date: 2012-04-17 -0800
+date: 2010-11-06 -0800
 comments: true
 disqus_identifier: 34
 tags: [Personal]
@@ -17,4 +17,3 @@ There are new tools to do the easy upgrade which I did yesterday. The
 upgrade took four hours of which three hours were waiting for the
 disk-to-disk copy to complete. Also, I recorded the project for YouTube.
 See details at my [DIYClinic](http://DIYClinic.webguild.com/) website.
-
