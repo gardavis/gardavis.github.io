@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I fixed my slow Gigabit network performance"
-date: 2012-04-17 -0800
+date: 2009-07-29 -0800
 comments: true
 disqus_identifier: 15
 tags: [Personal]
@@ -22,9 +22,8 @@ computer and the server on the other. The program easily connects
 between them and sends messages back and forth for several seconds and
 displays a graph of the performance.
 
-[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_6.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_14.png)The
-graph shown on the left is the performance I was seeing which was about
-376KB/sec.
+[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_6.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_14.png){: .left}
+The graph shown on the left is the performance I was seeing which was about 376KB/sec.
 
 Another tool I used to get some more data is
 [WireShark](http://www.wireshark.org/). This is a complex tool to
@@ -41,7 +40,7 @@ cat6 manufactured cables from [Monoprice](http://www.monoprice.com/), a
 great place to get ~~cheap~~ inexpensive cables. This did not improve
 things at all.
 
-[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_2.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_6.png)
+[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_2.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_6.png){: .right}
 
 I next tried a 7.25 GB DVD transfer and it would have completed in about
 4 hours if I let it finish (see screen shot on right). The transfer rate
@@ -61,7 +60,7 @@ IPs when connected this way so I had to assign static IPs to each site
 The throughput jumped to what it should be when using Jperf. Now,
 instead of 4 hours, the file transfer would take about 7 minutes.
 
-[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_3.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_8.png)
+[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_3.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_8.png){: .left}
 
 The transfer rate is about 23MB/sec and net utilization is 25%. That’s
 about 50 times faster.
@@ -80,7 +79,8 @@ TRENDnet and sent them a screen capture of the performance issue.
 I continued thinking about the difference between the two tests and
 decided to try removing all the attached cables from the router to make
 sure none of
-the[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_7.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_16.png)
+the
+[![image](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_thumb_7.png "image")](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowIfixedmyslowGigabitconnectionthroughp_125A5/image_16.png){: .right}
 other devices was causing the problem. There are four ports on the
 router: 1) Server, 2) my PC, 3) wife’s PC and 4) connection to a 8-port
 cheapie switch (Zonet). Disconnecting one at a time quickly showed that
@@ -99,4 +99,3 @@ line at hugging the bottom around 0.
 so the problem is not fixed as I thought. I will get a new Gigabit
 switch which should work, else I am back to blaming the TRENDnet Gig
 router.*
-

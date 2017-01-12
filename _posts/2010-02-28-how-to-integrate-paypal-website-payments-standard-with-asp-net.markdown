@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Integrate PayPal Website Payments Standard with ASP.Net"
-date: 2012-04-16 -0800
+date: 2010-02-28 -0800
 comments: true
 disqus_identifier: 9
 tags: [Programming]
@@ -13,10 +13,9 @@ Website Payments Standard with ASP.Net C\#. I included a [demo web
 application](http://www.webguild.com/Codecamp2010/) showing four
 different options to program the application though from the buyer’s
 point of view, all four examples looked and acted the
-same.[![CodeCampImage1](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowtoIntegratePayPalWebsitePaymentsS.Net_AC50/CodeCampImage1_5.png "CodeCampImage1")](http://www.webguild.com/CodeCamp2010/ "Gary's Test Store")
+same.
 
- 
-
+[![CodeCampImage1](/images/blogs_webguild_com/gary/WindowsLiveWriter/HowtoIntegratePayPalWebsitePaymentsS.Net_AC50/CodeCampImage1_5.png "CodeCampImage1")](http://www.webguild.com/CodeCamp2010/ "Gary's Test Store"){: .left}
 PayPal standard is the familiar option that displays PayPal buy-buttons
 to the buyer and when clicked, control is transferred to PayPal for the
 buyer to complete the payment and hopefully return to the website.
@@ -63,13 +62,11 @@ to initiate the redirect to PayPal. This is a bare-bones class you can
 enhance with additional properties as needed for your own use.
 
 The presentation was the last of the day but was well attended by a
-lively group who had many questions. See my article about [PayPal
-Encrypted Website
-Payments](http://webguild.dyndns.org/Blog/archive/2008/08/29/how-to-create-dynamic-encrypted-website-payments-ewp-paypal-buttons.aspx)
+lively group who had many questions. See my article about 
+[PayPal Encrypted Website Payments](http://webguild.dyndns.org/Blog/archive/2008/08/29/how-to-create-dynamic-encrypted-website-payments-ewp-paypal-buttons.aspx)
 for additional information about that part of the code in Example 4.
 Source code and PowerPoint slides are available at
 [http://code.msdn.microsoft.com/webguild](http://code.msdn.microsoft.com/webguild).
 
 Plug: Webguild does PayPal development, integration and consultation
 including full-blown PayPalStdLib and PayPalProLib class libraries.
-
