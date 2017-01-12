@@ -56,12 +56,6 @@ with DISKPART **create partition**and **assign** commands.
 
  References:
 
--   [Delete a partition or logical
-    drive](http://technet.microsoft.com/en-us/library/cc738489%28WS.10%29.aspx)
--   For NookColor: [How to make a bootable CWM 3.2.0.1 (ClockWorkMod) or
-    TWRP 2.1.1 bootable sd card
-    ](http://androidforums.com/nookcolor-all-things-root/327798-guide-how-make-bootable-cwm-3-2-0-1-clockworkmod-twrp-2-1-1-bootable-sd-card-4-22-2012-a.html)
--   [Download and Install CM7 to Run Off SD
-    Card](http://androidforums.com/nookcolor-all-things-root/367116-how-download-install-cm7-run-off-sd-card.html)
-
-
+-   [Delete a partition or logical drive](http://technet.microsoft.com/en-us/library/cc738489%28WS.10%29.aspx)
+-   For NookColor: [How to make a bootable CWM 3.2.0.1 (ClockWorkMod) or TWRP 2.1.1 bootable sd card](http://androidforums.com/nookcolor-all-things-root/327798-guide-how-make-bootable-cwm-3-2-0-1-clockworkmod-twrp-2-1-1-bootable-sd-card-4-22-2012-a.html)
+-   [Download and Install CM7 to Run Off SD Card](http://androidforums.com/nookcolor-all-things-root/367116-how-download-install-cm7-run-off-sd-card.html)

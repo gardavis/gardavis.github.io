@@ -13,8 +13,8 @@ I ran Windows Update and part way through the 19 updates, the Remote
 Desktop connection froze. I figured the updates needed a reboot and but
 the server never came back up. I’d have to wait till I got home to
 figure out what happened.
-[![Updates1](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_thumb.png "Updates1")](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_2.png){: .right}
 
+[![Updates1](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_thumb.png "Updates1")](/images/blogs_webguild_com/Windows-Live-Writer/How-I-Lost-My-Windows-7-Firewall-Rules_11E6E/Updates1_2.png){: .right}
 When I got home, the server was pretty much how I left it from work. It
 had completed the updates and was just ready to reboot. The problem was
 that I could not connect to the server remotely. Outgoing connections

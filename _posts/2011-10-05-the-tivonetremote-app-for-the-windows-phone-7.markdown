@@ -1,18 +1,17 @@
 ---
 layout: post
 title: "The TivoNetRemote App for the Windows Phone 7"
-date: 2012-04-16 -0800
+date: 2011-10-05 -0800
 comments: true
 disqus_identifier: 5
 tags: [WP7]
 ---
 I have been spending some time lately writing an app for the Windows
 Phone 7 to remote
-[![TivoNetRemoteMktM](/images/blogs_webguild_com/gary/Windows-Live-Writer/67b7f95c899e_117B7/TivoNetRemoteMktM_3.png "TivoNetRemoteMktM")](http://garz.me/tivonetremote)control
-a TiVo using your home network (not infrared). Today, the app showed up
+[![TivoNetRemoteMktM](/images/blogs_webguild_com/gary/Windows-Live-Writer/67b7f95c899e_117B7/TivoNetRemoteMktM_3.png "TivoNetRemoteMktM")](http://bit.ly/tivonetremote){: .right}
+control a TiVo using your home network (not infrared). Today, the app showed up
 in the marketplace.
 
-[![TivoNetRemotePhoneS](/images/blogs_webguild_com/gary/Windows-Live-Writer/67b7f95c899e_117B7/TivoNetRemotePhoneS_3.png "TivoNetRemotePhoneS")](http://www.tivonetremote.com/)
 
 The app uses the Mango (7.5) version of the Windows Phone 7 which
 supports TCP/IP socket communication. As you click the buttons, commands
@@ -33,7 +32,8 @@ The app uses the Dotfuscator product from [Preemptive
 Solutions](http://www.preemptive.com/) to obfuscate the code to deter
 reverse engineering and decompiling the app as well as add analytics to
 track the number of times the app is used by all those that downloaded
-it.[![TivoRemoteWM6](/images/blogs_webguild_com/gary/Windows-Live-Writer/67b7f95c899e_117B7/TivoRemoteWM6_3.png "TivoRemoteWM6")](http://www.webguild.com/Tivo)
+it.
+[![TivoRemoteWM6](/images/blogs_webguild_com/gary/Windows-Live-Writer/67b7f95c899e_117B7/TivoRemoteWM6_3.png "TivoRemoteWM6")](http://www.webguild.com/Tivo){: .right}
 
 Much of the text and hyperlinks within the app may be updated by me
 without requiring users to update their app. This is done by the app
@@ -54,4 +54,3 @@ on the TiVo (TivoWeb).
 
 For more information, click the images to get to the marketplace and the
 app’s home page.
-

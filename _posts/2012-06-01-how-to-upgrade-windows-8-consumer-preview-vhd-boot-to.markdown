@@ -47,9 +47,7 @@ script will make the VHD bootable and copy the necessary folders and
 files from the ISO to the VHD. If you need to add a new boot menu item
 type **bcdboot.exe I:\\Windows** where I: is your VHD. 
 
-![PowerShell running
-Install-WindowsImage](/images/blogs_webguild_com/PSInstWin8.png)
-
+![PowerShell running Install-WindowsImage](/images/blogs_webguild_com/PSInstWin8.png){: .left}
 The Install-WindowsImage took about 4 minutes where the ISO and VHD
 where on an SSD and 32 minutes when both were on the same hard drive
 partition.
@@ -67,5 +65,4 @@ The howtogeek.com article above has all the details, screenshots and
 more if you need additional information about this procedure.
 
 Once running, you can install Windows Media Center using the info at
-[this
-blog](http://www.techspot.com/news/48847-media-center-yanked-from-windows-8-release-preview-heres-how-to-re-enable-it.html).
+[this blog](http://www.techspot.com/news/48847-media-center-yanked-from-windows-8-release-preview-heres-how-to-re-enable-it.html).

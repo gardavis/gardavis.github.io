@@ -11,8 +11,9 @@ was created by a team of developers as part of the local Give
 Camp project. I programmed the screens and web service calls; 
 [Robert Hellestrae](http://www.roberthellestrae.com) did the initial foundation;
 [Dave Norderer](http://www.computerways.com) did the shaker and spinner
-coding as well as some of the REST data services. Several others were
-involved with the BBBS Little Moments web site and administration site
+coding as well as some of the REST data services. 
+
+Several others were involved with the BBBS Little Moments web site and administration site
 and project management. Our Big Brothers Big Sisters contact was 
 [Kara Justi](http://www.mentorbig.org) from the Palm Beach and Marin Counties agency.
 [![BBBS WP7 App](/images/blogs_webguild_com/BBBSImage.png)](https://www.microsoft.com/en-us/store/p/bbbs-little-moments/9nblgggzjrqk){: .left}
