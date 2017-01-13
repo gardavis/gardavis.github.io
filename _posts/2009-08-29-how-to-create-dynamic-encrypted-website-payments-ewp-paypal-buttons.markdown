@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to create dynamic Encrypted Website Payments (EWP) PayPal buttons"
-date: 2012-04-17 -0800
+date: 2009-08-29 -0800
 comments: true
 disqus_identifier: 25
 tags: [Programming]
@@ -97,4 +97,3 @@ Certs and Keys tab). This page actually uses a PayPal buy button that
 uses a dynamic EWP button if you select the non-free option. The item
 name and price is encrypted and you will notice the personalized item
 name when you arrive on the PayPal site.
-

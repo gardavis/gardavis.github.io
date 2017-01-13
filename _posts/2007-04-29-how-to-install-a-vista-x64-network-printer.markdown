@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to install a Vista x64 network printer..."
-date: 2012-04-17 -0800
+date: 2007-04-29 -0800
 comments: true
 disqus_identifier: 40
 tags: [Personal]
@@ -30,4 +30,3 @@ Refs:
 [http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=1135306&SiteID=17](http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=1135306&SiteID=17)
 
 [http://www.kevinyank.com/blog/archives/connect-to-a-network-printer-on-a-windows-xp-server-in-windows-vista](http://www.kevinyank.com/blog/archives/connect-to-a-network-printer-on-a-windows-xp-server-in-windows-vista "http://www.kevinyank.com/blog/archives/connect-to-a-network-printer-on-a-windows-xp-server-in-windows-vista")
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I fixed my son's new laptop 160GB drive"
-date: 2012-04-17 -0800
+date: 2008-05-10 -0800
 comments: true
 disqus_identifier: 37
 tags: [Personal]
@@ -49,4 +49,3 @@ Note that the thread referenced above discussed a Seagate drive that had
 issues and a special procedure for dealing with 28 vs 48 bit LBA. My
 son's drive is a Western Digital and did not have those problems. A
 simple press of the S key was all that was needed in my case.
-

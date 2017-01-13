@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Became a PayPal Certified Developer"
-date: 2012-04-17 -0800
+date: 2008-01-07 -0800
 comments: true
 disqus_identifier: 27
 tags: [Personal]
@@ -24,4 +24,3 @@ Eventually, I got listed on the [PayPal
 Directory](http://www.paypal.com/Certification/dc_directory.html#Florida).
 
 I also got a nice PayPal shirt:)
-

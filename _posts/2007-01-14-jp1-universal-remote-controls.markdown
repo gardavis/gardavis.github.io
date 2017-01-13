@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JP1 Universal Remote Controls"
-date: 2012-04-17 -0800
+date: 2007-01-14 -0800
 comments: true
 disqus_identifier: 21
 tags: [Personal]
@@ -32,4 +32,3 @@ virtually all useful buttons from the new receiver's remote for both the
 Radio Shack and the All For One remotes and uploaded it to the JP1 forum
 files section. You can find the
 upgrade [here](http://www.hifi-remote.com/forums/dload.php?action=file&file_id=4093) 
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I replaced my garage door springs"
-date: 2012-04-17 -0800
+date: 2007-11-22 -0800
 comments: true
 disqus_identifier: 24
 tags: [Personal]

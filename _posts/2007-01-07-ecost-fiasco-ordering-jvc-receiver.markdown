@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "eCost Fiasco ordering JVC Receiver"
-date: 2012-04-17 -0800
+date: 2007-01-07 -0800
 comments: true
 disqus_identifier: 30
 tags: [Personal]

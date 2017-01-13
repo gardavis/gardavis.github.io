@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to enable the Microsoft Installer logging"
-date: 2012-04-17 -0800
+date: 2007-08-09 -0800
 comments: true
 disqus_identifier: 23
 tags: [Personal]
@@ -34,5 +34,3 @@ Administrative Templates - Windows
  Components - Windows Installer.
 
 Ref: Originally found on the TivoCommunity.com forum.
-
-

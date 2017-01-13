@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Porting Web from VS2005 IIS6 to VS2008 IIS7"
-date: 2012-04-17 -0800
+date: 2007-10-04 -0800
 comments: true
 disqus_identifier: 31
 tags: [Personal]
@@ -24,7 +24,7 @@ Some issues were identified in the various steps as expected.
 
 **Issue \#1 - Web Config HttpHandler**
 
-Use \<Handler\> instead of \<HttpHandler\>
+Use ``<Handler>`` instead of ``<HttpHandler>``
 
 **Issue \#2 - "Request is not available" in this context Trap**
 
@@ -39,57 +39,39 @@ trap.
 
 For example, this traps in IIS7 and works fine in IIS6:
 
-       if (HttpContext.Current != null)  // No HttpContext if entered
-via RemovedCallback()
-
-       {
-
-              string host =
-HttpContext.Current.Request.Url.Host.ToLower();
-
-              if (host == "www.mydomain.com") return;
-
+```
+       if (HttpContext.Current != null)  // No HttpContext if entered via RemovedCallback()
+       {
+           string host = HttpContext.Current.Request.Url.Host.ToLower();
+           if (host == "www.mydomain.com") return;
        }
-
+```
      
 
 To get this to work, I changed the IF to a TRY/CATCH. Is there a more
 elegant way? I generally try to avoid TRY/CATCH.
 
      
-
+```
        try
-
        {
-
-              string host =
-HttpContext.Current.Request.Url.Host.ToLower();
-
-              if (host == "www.mydomain.com") return;
-
+           string host = HttpContext.Current.Request.Url.Host.ToLower();
+           if (host == "www.mydomain.com") return;
        }
-
        catch{}
-
+```
  
 
 Follow Up: This seems to work - check the Handler property for null:
-       if (HttpContext.Current != null &&  // No HttpContext if entered
-via RemovedCallback()
-
+```
+       if (HttpContext.Current != null &&  // No HttpContext if entered via RemovedCallback()
            HttpContext.Current.Handler != null)
-
-       {      
-
-              string host =
-HttpContext.Current.Request.Url.Host.ToLower();
-
-              if (host == "www.mydomain.com") return;
-
+       {
+           string host = HttpContext.Current.Request.Url.Host.ToLower();
+           if (host == "www.mydomain.com") return;
        }
-
+```
  
-
 **Issue \#3 - Asynchronous Calls to Web Service(s)**
 
 The model changed from Framework 1.1 to 2.0. The auto-generated proxy to
@@ -106,41 +88,18 @@ There were too many issues in converting to the newer event-based model
 on the @Page, unsure if the overlapped requests were supported, etc). So
 the solution was to simply copy the old generated code for the begin and
 end into the newly generated proxy.
-
-       /// \<remarks/\>
-
-       public System.IAsyncResult BeginCachePurge(CachePurgeType
-cachePurgeType,
-
-               string parameter, System.AsyncCallback callback, object
-asyncState)
-
+```
+       public System.IAsyncResult BeginCachePurge(CachePurgeType cachePurgeType,
+               string parameter, System.AsyncCallback callback, object asyncState)
        {
-
               return this.BeginInvoke("CachePurge", new object[] {
-
                        cachePurgeType,
-
                        parameter}, callback, asyncState);
-
        }
-
  
-
-       /// \<remarks/\>
-
        public bool EndCachePurge(System.IAsyncResult asyncResult)
-
        {
-
               object[] results = this.EndInvoke(asyncResult);
-
               return ((bool)(results[0]));
-
        }
-
-
- [This post is in progress - Gary] 
-
-
-
+```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I solved Brother 420CN &quot;No Cartridge&quot; Error"
-date: 2012-04-17 -0800
+date: 2007-09-15 -0800
 comments: true
 disqus_identifier: 22
 tags: [Personal]
@@ -33,4 +33,3 @@ installed into the printer, it is the end on the right). I tried
 covering the center but that didn't work. I then tried the
 left indentation (edge facing me) and that worked. You have to sort of
 stuff the tape into the indentation.
-

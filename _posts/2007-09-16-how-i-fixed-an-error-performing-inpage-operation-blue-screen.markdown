@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I fixed an &quot;Error Performing Inpage Operation&quot; Blue Screen reboot loop"
-date: 2012-04-17 -0800
+date: 2007-09-16 -0800
 comments: true
 disqus_identifier: 16
 tags: [Personal]
@@ -28,4 +28,3 @@ Attempting to view C: showed just an error.
 I then ran **chkdsk /r** from a dos window and it took about a 1/2 hour
 to complete, found several issues and after complete, I was able to view
 the C:\\ drive. Reboot then succeeded as normal!
-

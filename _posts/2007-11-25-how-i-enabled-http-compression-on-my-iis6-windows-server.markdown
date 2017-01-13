@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Enabled HTTP Compression on my IIS6 Windows Server 2003"
-date: 2012-04-17 -0800
+date: 2007-11-25 -0800
 comments: true
 disqus_identifier: 17
 tags: [Personal]
@@ -74,9 +74,7 @@ can individually try an aspx page and a css or js page to make sure both
 dynamic and static pages are compressed. You can also start up Fiddler
 and browse to your page and verify the components are compressed. The
 browser must tell the server that it can handle compression (most
-current popular browsers) with a header
-
- 
+current popular browsers) with a header 
 
 ![Fiddler displays request and response headers showing gzip
 used](/images/blogs_webguild_com/gary/FiddlerHeaders.png)
@@ -89,6 +87,3 @@ both compressed or not by changing the radion button: 
 
 ![Fiddler Transformer
 tab](/images/blogs_webguild_com/gary/FiddlerTransformer.png)
-
- 
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Solved Comcast's Block of my SMTP (Email) Port 25"
-date: 2012-04-17 -0800
+date: 2008-05-21 -0800
 comments: true
 disqus_identifier: 18
 tags: [Personal]
@@ -34,8 +34,7 @@ email for the last several days. I poked around and found out that
 incoming port 25 was also being blocked. I was not able to connect to my
 home server's port 25 from an external site (telnet debsrealty.com 25).
 My wife has her own business domain for which email was directly sent to
-the home server
-([http://www.debsrealty.com](http://www.debsrealty.com)). This blockage
+the home server. This blockage
 did not affect my email to webguild.com since the mail collects on that
 hosted site and my home email server periodically picks up the mail via
 POP3.
@@ -78,4 +77,3 @@ and were received. It's certainly possible that some were lost.
 
 The rollernet site keeps a log of email transactions that is useful in
 verifying functionality.
-

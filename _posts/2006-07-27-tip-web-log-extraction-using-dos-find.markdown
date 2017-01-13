@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tip: Web log extraction using DOS FIND"
-date: 2012-04-17 -0800
+date: 2006-08-27 -0800
 comments: true
 disqus_identifier: 19
 tags: [Personal]
@@ -26,6 +26,3 @@ si=webxmi - webxmi.xent.com 200 0 0 1852 427 328
 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.0;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322)
 si=webami;+sdc\_standard\_pool=2701264908.20480.0000
 http://webxmi.xent.com/WXLogin.htm webxmi.xent.com 302 0 0 814 722 390
-
- 
-

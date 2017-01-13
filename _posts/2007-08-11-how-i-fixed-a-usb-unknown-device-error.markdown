@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Fixed a USB &quot;Unknown Device&quot; Error"
-date: 2012-04-17 -0800
+date: 2007-08-11 -0800
 comments: true
 disqus_identifier: 29
 tags: [Personal]
@@ -71,4 +71,3 @@ also ghosted out, uninstall those as well.
 properly.  If not, .....  then well... I tried :)
  
  Good Luck!
-

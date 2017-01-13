@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Upgraded my HD Tivo from 20 to 98 hours"
-date: 2012-04-17 -0800
+date: 2007-08-18 -0800
 comments: true
 disqus_identifier: 26
 tags: [Personal]

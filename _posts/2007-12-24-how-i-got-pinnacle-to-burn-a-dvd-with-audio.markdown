@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I got Pinnacle to burn a DVD with audio"
-date: 2012-04-17 -0800
+date: 2007-12-24 -0800
 comments: true
 disqus_identifier: 38
 tags: [Personal]
@@ -39,4 +39,3 @@ to save as a .BUP. Say yes. If you reopen the file in IFOEdit, it will
 now display the audio as Dolby.
 
 The DVD can now be burned and will play the audio correctly.
-

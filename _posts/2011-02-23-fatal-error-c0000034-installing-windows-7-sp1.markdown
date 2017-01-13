@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fatal Error C0000034 installing Windows 7 SP1"
-date: 2012-04-17 -0800
+date: 2011-02-23 -0800
 comments: true
 disqus_identifier: 10
 tags: [Personal]
@@ -53,4 +53,3 @@ Zip file to your SkyDrive and post a link**here:
 - Basically, select Launch Startup Repair; follow the steps to get to
 the command line; run **notepad.exe c:\\windows\\winsxs\\pending.xml**;
 reboot and wait about 15 minutes and the SP1 will complete its install.
-
