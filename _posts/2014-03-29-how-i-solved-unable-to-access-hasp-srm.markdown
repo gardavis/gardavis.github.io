@@ -48,7 +48,7 @@ Installing this did solve the H0033 error. Also, once installed, the
 dongle light was lit and the <http://localhost:1947> worked.
 
 From the download page, I chose to install the **Sentinel HASP/LDK
-Windows GUI Run-time Installer**.
+Windows GUI Run-time Installer**. The zip file contains a Readme file and a HASPUserSetup.exe file. Run the exe file to start the installation. It’s pretty quick.
 
 Copy of HASP SRM Runtime download zip file:
 
