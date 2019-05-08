@@ -5,8 +5,6 @@ date: 2014-03-29 -0800
 comments: true
 disqus_identifier: 3045
 published: true
-categories:
-  - personal
 ---
 First of all, don't stress! These instructions will most likely get you up and running with your 4D, 5D, 6D
 or other dongle-controlled program in short order.
